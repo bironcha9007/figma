@@ -1,0 +1,58 @@
+
+
+[
+    {
+        "id": 1,
+        "judul": "Juego de Pacman",
+        "kategori": "HTML Games",
+        "lokasi": "./img/porfolio/Games/1.svg",
+        "link": "https://visualgraphicmd.com.co/pages/programacion/pacman/index.html",
+        "deskripsi": " ¡Disfruta del clásico juego de Pacman! Recorre el laberinto, come los puntos y evita a los fantasmas para alcanzar la puntuación más alta.",
+        "filter": "html games"
+    },
+    {
+        "id": 2,
+        "judul": "Juego de Rubik",
+        "kategori": "HTML Games",
+        "lokasi": "./img/porfolio/Games/2.svg",
+        "link": "https://visualgraphicmd.com.co/pages/programacion/rubik/index.html",
+        "deskripsi": "Sumérgete en el desafiante mundo del cubo de Rubik en esta versión en línea. Gira, gira y resuelve el cubo en este juego dinámico en 3D y responsive.",
+        "filter": "html games"
+    },
+    {
+        "id": 3,
+        "judul": "Juego de Perseguir al Conejo",
+        "kategori": "HTML Games",
+        "lokasi": "./img/porfolio/Games/6.svg",
+        "link": "https://visualgraphicmd.com.co/pages/programacion/rabit/index.html",
+        "deskripsi": "Ayuda al conejo a escapar de sus perseguidores en este emocionante juego. Atraviesa el paisaje en 3D mientras evitas los obstáculos y alcanzas la libertad.",
+        "filter": "html games"
+    },
+    {
+        "id": 4,
+        "judul": "Juego de Memoria Tamgram",
+        "kategori": "HTML Games",
+        "lokasi": "./img/porfolio/Games/4.svg",
+        "link": "https://visualgraphicmd.com.co/pages/programacion/memory/index.html",
+        "deskripsi": "Ejercita tu mente con este divertido juego de memoria tipo Tangram. Encuentra los pares de cartas correspondientes mientras disfrutas de los desafiantes patrones.",
+        "filter": "html games"
+    },
+    {
+        "id": 5,
+        "judul": "Juego de Tetris",
+        "kategori": "HTML Games",
+        "lokasi": "./img/porfolio/Games/5.svg",
+        "link": "https://visualgraphicmd.com.co/pages/programacion/tetris/index.html",
+        "deskripsi": "¡Revive la nostalgia del clásico juego de Tetris! Acomoda las piezas que caen para formar líneas completas y evitar que se acumulen hasta alcanzar la cima.",
+        "filter": "html games"
+    },
+    {
+        "id": 6,
+        "judul": "Juego de Snake",
+        "kategori": "HTML Games",
+        "lokasi": "./img/porfolio/Games/3.svg",
+        "link": "https://visualgraphicmd.com.co/pages/programacion/snake/index.html",
+        "deskripsi": "Controla a la serpiente en este adictivo juego clásico. Recoge los puntos para hacer crecer a la serpiente, pero ten cuidado de no chocar contra las paredes o tu propia cola.",
+        "filter": "html games"
+    }
+]
